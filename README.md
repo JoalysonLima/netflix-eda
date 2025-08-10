@@ -1,11 +1,11 @@
-#Netflix Data Analysis — Exploratory Data Analysis (EDA)
+# Netflix Data Analysis — Exploratory Data Analysis (EDA)
 
 - Este projeto é uma **análise exploratória de dados (EDA)** sobre o dataset *Netflix Titles*, disponível no Kaggle.  
 - O objetivo é entender melhor o catálogo da Netflix, investigando padrões, tendências e características de filmes e séries com o intuito de aplicar, fixar e desenvolver habilidades na produção de análise de dados para negócios.
 
 ---
 
-##O que já foi feito
+## O que já foi feito
 1. **Importação e inspeção inicial**
    - Carregamento do dataset.
    - Visualização da estrutura e tamanho dos dados.
@@ -32,7 +32,7 @@
 
 ---
 
-##Ferramentas
+## Ferramentas
 - **Python**
 - **Pandas**
 - **NumPy**
@@ -41,7 +41,7 @@
 
 ---
 
-##Próximos passos
+## Próximos passos
 - Análises multivariadas mais profundas.
 - Exploração de correlações.
 - Visualizações interativas (ex.: Plotly).
@@ -49,11 +49,11 @@
 
 ---
 
-##Fonte dos dados
+## Fonte dos dados
 [Netflix Movies and TV Shows — Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
 
-##Autor
+## Autor
 **Joalyson Lima**  
 Projeto de prática e portfólio — Análise de Dados com Python
